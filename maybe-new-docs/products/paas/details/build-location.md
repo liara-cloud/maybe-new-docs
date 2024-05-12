@@ -22,7 +22,7 @@ liara deploy --build-location="germany"
 ```
 
 ## روش سوم: Liara Console
-در استقرار با مرورگر، موقعیت build را در بخش **تنظیمات build** به شکل زیر انتخاب کنید:
+در استقرار با کنسول، موقعیت build را در بخش **تنظیمات build** به شکل زیر انتخاب کنید:
 
 ![set-build-location](https://files.liara.ir/liara/docs/set-build-location.png)
 
