@@ -17,3 +17,4 @@
 - [تنظیم DNS Server](./dns-server-settings.md)
 - [تنطیم موقعیت build](./build-location.md)
 - [پلن‌های برنامه](./plans/about.md)
+- [حذف یک برنامه]
