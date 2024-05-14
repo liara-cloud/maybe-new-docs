@@ -14,6 +14,7 @@
 - [تهیه گواهی SSL برای دامنه](./enable-ssl.md)
 - [غیرفعال کردن زیر دامنه پیش‌فرض](./default-subdomain.md)
 - [حذف دامنه یا زیردامنه متصل شده به برنامه](./delete-domain)
+- [TLDهای قابل پشتیبانی](./supported-tlds.md)
 
 
 > [!TIP]
