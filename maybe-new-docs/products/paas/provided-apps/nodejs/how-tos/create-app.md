@@ -67,4 +67,4 @@ https://my-web-app.liara.run
 > [!TIPS]
 > همچنین بخوانید: [اضافه کردن دامنه به برنامه](../../../domains/about.md)
 
-[گام بعدی](./deploy-app.md)
+[گام بعدی - استقرار برنامه](./deploy-app.md)
