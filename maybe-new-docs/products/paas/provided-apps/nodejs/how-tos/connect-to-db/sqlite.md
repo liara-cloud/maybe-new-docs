@@ -14,7 +14,7 @@ npm install sqlite3
 
 3) از قطعه کد زیر در برنامه اصلی خود، استفاده کنید (می‌توانید آن را با توجه به نیاز خود، تغییر دهید):
 
-```
+```js
 const express = require('express');
 const sqlite3 = require('sqlite3').verbose();
 
@@ -50,7 +50,7 @@ app.listen(3000, () => {
 
 5) در مسیر اصلی پروژه، یک فایل به نام `liara.json` ایجاد کنید و قطعه کد زیر را، درون آن، قرار دهید:
 
-```
+```json
 {
     "disks": [
         {

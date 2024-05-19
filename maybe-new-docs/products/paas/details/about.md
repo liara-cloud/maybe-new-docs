@@ -19,3 +19,4 @@
 - [تنطیم موقعیت build](./build-location.md)
 - [تغییر پلن در برنامه](./change-plan.md)
 - [حذف یک برنامه](./delete.md)
+- [پروکسی معکوس - Reverse Proxy](reverse-proxy.md)

@@ -14,4 +14,4 @@
 - [Prisma](./prisma.md)
 - [Sequelize](./sequelize/about.md)
 
-[گام بعدی - استفاده از دیسک‌](../connect-to-disk.md)
+[گام بعدی - استفاده از دیسک‌](../use-disk.md)
