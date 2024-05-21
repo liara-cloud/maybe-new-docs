@@ -9,6 +9,7 @@
 - [رفع خطای CORS در فریم‌ورک Koa](./koa.md)
 - [رفع خطای CORS در فریم‌ورک Hapi](./hapi.md)
 - [رفع خطای CORS در فریم‌ورک NuxtJS](./nuxtjs.md)
+- [رفع خطای CORS در فریم‌ورک AdonisJS](./adonisjs.md)
 
 
 

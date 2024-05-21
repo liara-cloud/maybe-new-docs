@@ -26,24 +26,4 @@ import adapter from '@sveltejs/adapter-node';
 	},
 ```
 
-Liara CLI
-
-در نهایت کافیست تا دستور زیر را اجرا کنید تا برنامه شما در لیارا مستقر شود:
-
-```
-liara deploy --port=3000 --platform=node
-```
-
-Liara Console
-
-
-
-در نهایت کافیست تا برنامه خود را با کنسول و پورت 3000، در لیارا آپلود کنید و عملیات استقرار را انجام دهید تا برنامه با موفقیت در لیارا مستقر شود.
-
-> [!TIP]
-> همچنین بخوانید: [استقرار برنامه Svelte در لیارا](../svelte/starter.md)
-
-> [!TIP]
-> همچنین بخوانید: [استقرار برنامه SvelteKit با adapter-static](../svelte/starter.md)
-
 
