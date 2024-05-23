@@ -10,6 +10,8 @@
 - [رفع خطای CORS در فریم‌ورک Hapi](./hapi.md)
 - [رفع خطای CORS در فریم‌ورک NuxtJS](./nuxtjs.md)
 - [رفع خطای CORS در فریم‌ورک AdonisJS](./adonisjs.md)
+- [رفع خطای CORS در فریم‌ورک NestJS](./nestjs.md)
+- [رفع خطای CORS در فریم‌ورک Strapi](./strapi.md)
 
 
 
