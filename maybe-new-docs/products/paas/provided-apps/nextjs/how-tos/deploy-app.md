@@ -143,9 +143,7 @@ Liara Console
 
 ![deploy app using console](https://files.liara.ir/liara/docs/deploy-app-using-console.gif)
 
-پس از آپلود پروژه، باید شخصی‌سازی‌های پروژه نظیر انتخاب نسخه، تعیین منطقه زمانی، اتصال دیسک و ... را در برنامه خود، لحاظ کنید:
-
-![build nodejs app on liara](https://files.liara.ir/liara/docs/build-nodejs-app-on-liara.gif)
+پس از آپلود پروژه، باید شخصی‌سازی‌های پروژه نظیر انتخاب موقعیت build را در برنامه خود، لحاظ کنید.
 
 در انتها، به صورت مستقیم به [صفحه تاریخچه برنامه](../../../details/private-registery.md) هدایت می‌شوید که می‌توانید لاگ‌های مربوط به استقرار را در آن، مشاهده بفرمایید. 
 
