@@ -61,10 +61,10 @@ https://my-web-app.liara.run
 
 ![a ready to use app](https://files.liara.ir/liara/docs/ready-to-use-app.png)
 
-> [!TIPS]
+> [!TIP]
 > همچنین بخوانید: [آشنایی با ویژگی‌های یک برنامه](../../../details/about.md)
 
-> [!TIPS]
+> [!TIP]
 > همچنین بخوانید: [اضافه کردن دامنه به برنامه](../../../domains/about.md)
 
 [گام بعدی - استقرار برنامه](./deploy-app.md)

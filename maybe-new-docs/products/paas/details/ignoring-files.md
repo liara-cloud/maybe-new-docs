@@ -10,6 +10,6 @@
 - `.dockerignore`
 - `.gitignore`
 
-> [!NOTICE]
+> [!NOTE]
 > توجه داشته باشید که اولویت اول با `liaraignore.` است، اگر چنین فایلی را تعریف کرده باشید، دیگر فایل‌های ignore مانند `dockerignore.` و `gitignore.` خوانده نمی‌شوند.
 
